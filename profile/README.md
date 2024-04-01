@@ -6,5 +6,5 @@
 
 # 🔥Links
 
-| <a href="https://discord.arcade-project.xyz/">🐐 discord</a> | <a href="https://arcade-project.gitbook.io/arcade-db">📒 docs</a> |
-| --- | --- |
+**<kbd> <br> <a href="https://discord.arcade-project.xyz/">🐐 discord</a> <br> </kbd>**
+**<kbd> <br> <a href="https://arcade-project.gitbook.io/arcade-db">📒 docs</a> <br> </kbd>**
