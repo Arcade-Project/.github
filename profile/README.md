@@ -1,3 +1,6 @@
+<p align="center"><img align="center" width="380" src="../.github/logo-dark.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="380" src="../.github/logo-light.svg#gh-light-mode-only"/></p>
+
 # ⚡What is arcade-db ?
 
 > Arcade DB is a web app that brings together all kinds of OSINT tools.
