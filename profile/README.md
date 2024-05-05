@@ -10,4 +10,4 @@
 # 🔥Links
 
 **<kbd> <br> <a href="https://discord.arcade-project.xyz/">🐐 discord</a> <br> </kbd>**
-**<kbd> <br> <a href="https://arcade-project.gitbook.io/arcade-db">📒 docs</a> <br> </kbd>**
+**<kbd> <br> <a href="https://docs.arcade-project.xyz>📒 docs</a> <br> </kbd>**
