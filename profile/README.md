@@ -1,4 +1,5 @@
-<p align="center"><img align="center" width="380" src="../.github/logo-dark.svg"/></p>
+<p align="center"><img align="center" width="380" src="https://github.com/Arcade-Project/.github/blob/main/.github/logo-dark.svg#gh-dark-mode-only"/></p>
+<p align="center"><img align="center" width="380" src="https://github.com/Arcade-Project/.github/blob/main/.github/logo-light.svg#gh-light-mode-only"/></p>
 
 # ⚡What is arcade-db ?
 
@@ -10,3 +11,4 @@
 
 **<kbd> <br> <a href="https://discord.arcade-project.xyz/">🐐 discord</a> <br> </kbd>**
 **<kbd> <br> <a href="https://docs.arcade-project.xyz">📒 docs</a> <br> </kbd>**
+
