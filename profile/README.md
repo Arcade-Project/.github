@@ -1,5 +1,4 @@
-<p align="center"><img align="center" width="380" src="https://github.com/Arcade-Project/.github/blob/main/.github/logo-dark.svg#gh-dark-mode-only"/></p>
-<p align="center"><img align="center" width="380" src="https://github.com/Arcade-Project/.github/blob/main/.github/logo-light.svg#gh-light-mode-only"/></p>
+<p align="center"><img align="center" src="https://raw.githubusercontent.com/Arcade-Project/.github/main/.github/banner.svg"/></p>
 
 # ⚡What is arcade-db ?
 
